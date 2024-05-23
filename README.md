@@ -16,5 +16,5 @@ I also used Mathematical Functions to:
  2. Create a function to check if a number is prime or not.
  3. Implement a function to generate the Fibonacci sequence up to a given number of terms.
 
-Though I do not undersand all that I did, especially the Fibonacci function, I hope with more practice and research, I hope to get further clarification.
+Though I do not undersand all that I did, especially the Fibonacci function, I hope with more practice and research, I can get further clarification.
 
